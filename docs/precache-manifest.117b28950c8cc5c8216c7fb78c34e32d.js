@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88ef7086079789da79fe0593ccd131bb",
+    "revision": "1ab78e271ea5417b5f86e74314fd7696",
     "url": "/kelly/404.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kelly/css/main.6c694708.css"
   },
   {
-    "revision": "b5fda11f03c3d2be417aebe176110699",
+    "revision": "43f83d53f9346c93f0a7aeac175efb50",
     "url": "/kelly/index.html"
   },
   {
