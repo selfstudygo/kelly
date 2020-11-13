@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/kelly/css/main.6c694708.css",
-    "main.js": "/kelly/js/main.61bb9973.js",
-    "react.js": "/kelly/js/react_chunk.e4e7688d.js",
-    "vendor.js": "/kelly/js/vendor_chunk.225fab3f.js",
-    "js/3_chunk.4d5bb4eb.js": "/kelly/js/3_chunk.4d5bb4eb.js",
-    "js/4_chunk.fbb6de51.js": "/kelly/js/4_chunk.fbb6de51.js",
-    "js/5_chunk.1e093cd3.js": "/kelly/js/5_chunk.1e093cd3.js",
+    "main.js": "/kelly/js/main.df101faf.js",
+    "react.js": "/kelly/js/react_chunk.fddf8cdc.js",
+    "vendor.js": "/kelly/js/vendor_chunk.0eccb2a5.js",
+    "js/3_chunk.4d5cebe7.js": "/kelly/js/3_chunk.4d5cebe7.js",
+    "js/4_chunk.a78ad49b.js": "/kelly/js/4_chunk.a78ad49b.js",
+    "js/5_chunk.8e91051e.js": "/kelly/js/5_chunk.8e91051e.js",
     "404.html": "/kelly/404.html",
     "index.html": "/kelly/index.html",
-    "js/react_chunk.e4e7688d.js.LICENSE.txt": "/kelly/js/react_chunk.e4e7688d.js.LICENSE.txt",
-    "js/vendor_chunk.225fab3f.js.LICENSE.txt": "/kelly/js/vendor_chunk.225fab3f.js.LICENSE.txt",
-    "precache-manifest.117b28950c8cc5c8216c7fb78c34e32d.js": "/kelly/precache-manifest.117b28950c8cc5c8216c7fb78c34e32d.js",
+    "js/react_chunk.fddf8cdc.js.LICENSE.txt": "/kelly/js/react_chunk.fddf8cdc.js.LICENSE.txt",
+    "js/vendor_chunk.0eccb2a5.js.LICENSE.txt": "/kelly/js/vendor_chunk.0eccb2a5.js.LICENSE.txt",
+    "precache-manifest.bab63e00e81926acf6f2362503ec788b.js": "/kelly/precache-manifest.bab63e00e81926acf6f2362503ec788b.js",
     "service-worker.js": "/kelly/service-worker.js"
   },
   "entrypoints": [
     "css/main.6c694708.css",
-    "js/main.61bb9973.js",
-    "js/react_chunk.e4e7688d.js",
-    "js/vendor_chunk.225fab3f.js"
+    "js/main.df101faf.js",
+    "js/react_chunk.fddf8cdc.js",
+    "js/vendor_chunk.0eccb2a5.js"
   ]
 }
