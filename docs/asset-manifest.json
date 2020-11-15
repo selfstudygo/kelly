@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/kelly/css/main.6c694708.css",
-    "main.js": "/kelly/js/main.a515e7bf.js",
-    "react.js": "/kelly/js/react_chunk.3cee6328.js",
-    "vendor.js": "/kelly/js/vendor_chunk.5e62fee3.js",
-    "js/3_chunk.3dd6e421.js": "/kelly/js/3_chunk.3dd6e421.js",
-    "js/4_chunk.19eb7bb1.js": "/kelly/js/4_chunk.19eb7bb1.js",
-    "js/5_chunk.1b28e622.js": "/kelly/js/5_chunk.1b28e622.js",
-    "js/6_chunk.c75c01db.js": "/kelly/js/6_chunk.c75c01db.js",
+    "main.css": "/kelly/css/main.b18ce528.css",
+    "main.js": "/kelly/js/main.493b9cc3.js",
+    "react.js": "/kelly/js/react_chunk.0bacc5db.js",
+    "vendor.js": "/kelly/js/vendor_chunk.d7bf5d0d.js",
+    "js/3_chunk.d73ba9f4.js": "/kelly/js/3_chunk.d73ba9f4.js",
+    "js/4_chunk.593b7714.js": "/kelly/js/4_chunk.593b7714.js",
+    "js/5_chunk.bd6dca2e.js": "/kelly/js/5_chunk.bd6dca2e.js",
+    "js/6_chunk.0b29089c.js": "/kelly/js/6_chunk.0b29089c.js",
+    "js/7_chunk.6bd8231e.js": "/kelly/js/7_chunk.6bd8231e.js",
     "404.html": "/kelly/404.html",
     "index.html": "/kelly/index.html",
-    "js/3_chunk.3dd6e421.js.LICENSE.txt": "/kelly/js/3_chunk.3dd6e421.js.LICENSE.txt",
-    "js/react_chunk.3cee6328.js.LICENSE.txt": "/kelly/js/react_chunk.3cee6328.js.LICENSE.txt",
-    "js/vendor_chunk.5e62fee3.js.LICENSE.txt": "/kelly/js/vendor_chunk.5e62fee3.js.LICENSE.txt",
-    "precache-manifest.f4048112de2fc53305ff0191f8da1a53.js": "/kelly/precache-manifest.f4048112de2fc53305ff0191f8da1a53.js",
+    "js/react_chunk.0bacc5db.js.LICENSE.txt": "/kelly/js/react_chunk.0bacc5db.js.LICENSE.txt",
+    "js/vendor_chunk.d7bf5d0d.js.LICENSE.txt": "/kelly/js/vendor_chunk.d7bf5d0d.js.LICENSE.txt",
+    "precache-manifest.0356e30b53d1ad88200e54a8e484a45e.js": "/kelly/precache-manifest.0356e30b53d1ad88200e54a8e484a45e.js",
     "service-worker.js": "/kelly/service-worker.js"
   },
   "entrypoints": [
-    "css/main.6c694708.css",
-    "js/main.a515e7bf.js",
-    "js/react_chunk.3cee6328.js",
-    "js/vendor_chunk.5e62fee3.js"
+    "css/main.b18ce528.css",
+    "js/main.493b9cc3.js",
+    "js/react_chunk.0bacc5db.js",
+    "js/vendor_chunk.d7bf5d0d.js"
   ]
 }
