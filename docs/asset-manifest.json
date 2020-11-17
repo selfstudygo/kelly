@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kelly/css/main.b18ce528.css",
-    "main.js": "/kelly/js/main.493b9cc3.js",
+    "main.js": "/kelly/js/main.53a31b2d.js",
     "react.js": "/kelly/js/react_chunk.0bacc5db.js",
     "vendor.js": "/kelly/js/vendor_chunk.d7bf5d0d.js",
     "js/3_chunk.d73ba9f4.js": "/kelly/js/3_chunk.d73ba9f4.js",
@@ -13,12 +13,12 @@
     "index.html": "/kelly/index.html",
     "js/react_chunk.0bacc5db.js.LICENSE.txt": "/kelly/js/react_chunk.0bacc5db.js.LICENSE.txt",
     "js/vendor_chunk.d7bf5d0d.js.LICENSE.txt": "/kelly/js/vendor_chunk.d7bf5d0d.js.LICENSE.txt",
-    "precache-manifest.0356e30b53d1ad88200e54a8e484a45e.js": "/kelly/precache-manifest.0356e30b53d1ad88200e54a8e484a45e.js",
+    "precache-manifest.3cbc52729196949bf2c4bd6b7c4c2bfc.js": "/kelly/precache-manifest.3cbc52729196949bf2c4bd6b7c4c2bfc.js",
     "service-worker.js": "/kelly/service-worker.js"
   },
   "entrypoints": [
     "css/main.b18ce528.css",
-    "js/main.493b9cc3.js",
+    "js/main.53a31b2d.js",
     "js/react_chunk.0bacc5db.js",
     "js/vendor_chunk.d7bf5d0d.js"
   ]

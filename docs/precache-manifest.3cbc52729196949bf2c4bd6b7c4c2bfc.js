@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kelly/404.html"
   },
   {
-    "revision": "55f77f88b4c5f311cebb",
+    "revision": "aeadab317f37f6794d94",
     "url": "/kelly/css/main.b18ce528.css"
   },
   {
-    "revision": "2154c9690af619f13453739959530ee7",
+    "revision": "36814fceee42650581a220aafb30e169",
     "url": "/kelly/index.html"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kelly/js/7_chunk.6bd8231e.js"
   },
   {
-    "revision": "55f77f88b4c5f311cebb",
-    "url": "/kelly/js/main.493b9cc3.js"
+    "revision": "aeadab317f37f6794d94",
+    "url": "/kelly/js/main.53a31b2d.js"
   },
   {
     "revision": "942436a09a9b1a061dc1",
