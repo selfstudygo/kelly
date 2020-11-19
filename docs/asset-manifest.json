@@ -1,30 +1,30 @@
 {
   "files": {
     "main.css": "/kelly/css/main.7f405a06.css",
-    "main.js": "/kelly/js/main.b700433e.js",
-    "react.js": "/kelly/js/react_chunk.29a9d1db.js",
-    "vendor.js": "/kelly/js/vendor_chunk.70754b1f.js",
-    "js/3_chunk.d4624886.js": "/kelly/js/3_chunk.d4624886.js",
-    "js/4_chunk.10a8dc41.js": "/kelly/js/4_chunk.10a8dc41.js",
-    "js/5_chunk.91f243da.js": "/kelly/js/5_chunk.91f243da.js",
+    "main.js": "/kelly/js/main.0bd5d5eb.js",
+    "react.js": "/kelly/js/react_chunk.913e8e6a.js",
+    "vendor.js": "/kelly/js/vendor_chunk.5002250a.js",
+    "js/3_chunk.8b3858ca.js": "/kelly/js/3_chunk.8b3858ca.js",
+    "js/4_chunk.494f4394.js": "/kelly/js/4_chunk.494f4394.js",
+    "js/5_chunk.dd8360a6.js": "/kelly/js/5_chunk.dd8360a6.js",
     "js/6_chunk.6b402eb4.js": "/kelly/js/6_chunk.6b402eb4.js",
     "js/7_chunk.8cf1d649.js": "/kelly/js/7_chunk.8cf1d649.js",
     "js/8_chunk.0f31da77.js": "/kelly/js/8_chunk.0f31da77.js",
     "js/9_chunk.4e1f4ad7.js": "/kelly/js/9_chunk.4e1f4ad7.js",
     "404.html": "/kelly/404.html",
     "index.html": "/kelly/index.html",
-    "js/3_chunk.d4624886.js.LICENSE.txt": "/kelly/js/3_chunk.d4624886.js.LICENSE.txt",
-    "js/4_chunk.10a8dc41.js.LICENSE.txt": "/kelly/js/4_chunk.10a8dc41.js.LICENSE.txt",
-    "js/5_chunk.91f243da.js.LICENSE.txt": "/kelly/js/5_chunk.91f243da.js.LICENSE.txt",
-    "js/react_chunk.29a9d1db.js.LICENSE.txt": "/kelly/js/react_chunk.29a9d1db.js.LICENSE.txt",
-    "js/vendor_chunk.70754b1f.js.LICENSE.txt": "/kelly/js/vendor_chunk.70754b1f.js.LICENSE.txt",
-    "precache-manifest.05e7898b8509ba3345715675c2261f1d.js": "/kelly/precache-manifest.05e7898b8509ba3345715675c2261f1d.js",
+    "js/3_chunk.8b3858ca.js.LICENSE.txt": "/kelly/js/3_chunk.8b3858ca.js.LICENSE.txt",
+    "js/4_chunk.494f4394.js.LICENSE.txt": "/kelly/js/4_chunk.494f4394.js.LICENSE.txt",
+    "js/5_chunk.dd8360a6.js.LICENSE.txt": "/kelly/js/5_chunk.dd8360a6.js.LICENSE.txt",
+    "js/react_chunk.913e8e6a.js.LICENSE.txt": "/kelly/js/react_chunk.913e8e6a.js.LICENSE.txt",
+    "js/vendor_chunk.5002250a.js.LICENSE.txt": "/kelly/js/vendor_chunk.5002250a.js.LICENSE.txt",
+    "precache-manifest.9876a7891fddc49d34e862a5f5826372.js": "/kelly/precache-manifest.9876a7891fddc49d34e862a5f5826372.js",
     "service-worker.js": "/kelly/service-worker.js"
   },
   "entrypoints": [
     "css/main.7f405a06.css",
-    "js/main.b700433e.js",
-    "js/react_chunk.29a9d1db.js",
-    "js/vendor_chunk.70754b1f.js"
+    "js/main.0bd5d5eb.js",
+    "js/react_chunk.913e8e6a.js",
+    "js/vendor_chunk.5002250a.js"
   ]
 }
