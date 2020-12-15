@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kelly/css/main.f5f4cff0.css"
   },
   {
-    "revision": "814a2063417c3f711c897e65b7f32f55",
+    "revision": "ac3fa208c2261a88b28d73138c6d7577",
     "url": "/kelly/index.html"
   },
   {
