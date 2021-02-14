@@ -1,1 +1,0 @@
-.modal-overlay{position:fixed;top:0;left:0;right:0;bottom:0;display:flex;z-index:1000;background-color:rgba(0,0,0,.66);align-items:center;justify-content:center}.modal-overlay.transparent{background-color:transparent}.modal-overlay.light{background-color:hsla(0,0%,100%,.77)}.modal{background-color:transparent;border:none;max-width:100%;max-height:100%;outline:none}
